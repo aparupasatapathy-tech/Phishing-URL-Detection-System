@@ -1,0 +1,16 @@
+URL,Actual
+https://www.google.com,Legitimate
+https://www.wikipedia.org,Legitimate
+https://github.com,Legitimate
+https://www.microsoft.com,Legitimate
+https://www.amazon.com,Legitimate
+http://google-login-security.com/verify,Phishing
+http://paypal-account-security.com/login,Phishing
+http://192.0.2.10/login,Phishing
+http://secure-bank-verify.com/account,Phishing
+http://free-reward-account.com/claim,Phishing
+http://login-verify-password.com/update,Phishing
+https://example.com,Legitimate
+https://www.python.org,Legitimate
+https://www.apple.com,Legitimate
+https://www.cloudflare.com,Legitimate
